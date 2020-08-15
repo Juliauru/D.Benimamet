@@ -42,6 +42,7 @@
   * [LINEA 233](https://juliauru.github.io/D.Benimamet/R_Autoconsumo_4/CG_line233.html)
   * [LINEA 239](https://juliauru.github.io/D.Benimamet/R_Autoconsumo_4/CG_line239.html)
   * [LINEA 266](https://juliauru.github.io/D.Benimamet/R_Autoconsumo_4/CG_line266.html)
+  
 6. **Variación en tensión, intensidad y potencia de los escenarios con penetración 25%,50%,75% y 100% respecto al escenario sin penetración**: [VIP_R0](https://juliauru.github.io/D.Benimamet/VIP_anual_R_0_5.html)
 
 * Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
