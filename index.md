@@ -42,7 +42,6 @@
   * [LINEA 266](https://juliauru.github.io/D.Benimamet/R_Autoconsumo_4/CG_line266.html)
   
 5. **Variación en tensión, intensidad y potencia de los escenarios con penetración 25%,50%,75% y 100% respecto al escenario sin penetración**: [VIP_R0](https://juliauru.github.io/D.Benimamet/VIP_anual_R_0_5.html)
-
 * Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
   * [LINEA 1](https://juliauru.github.io/D.Benimamet/R0_5/R0_line1.html)
   * [LINEA 2](https://juliauru.github.io/D.Benimamet/R0_5/R0_line2.html)
@@ -80,8 +79,7 @@
   * [LINEA 239](https://juliauru.github.io/D.Benimamet/R0_VIP_6/R0_line239.html)
   * [LINEA 266](https://juliauru.github.io/D.Benimamet/R0_VIP_6/R0_line266.html)
   
- 7. **Distribución densidad de probabilidad de la variación porcentual de la tensión de fase respecto al caso 0%. Estudio horario**:[DP_R0_Horaria](https://juliauru.github.io/D.Benimamet/R0_VIP_h_8.html)
- 
+ 7. **Distribución densidad de probabilidad de la variación porcentual de la tensión de fase respecto al caso 0%. Estudio horario**:[DP_R0_Horaria](https://juliauru.github.io/D.Benimamet/R0_VIP_h_8.html) 
 * Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
   * [LINEA 1](https://juliauru.github.io/D.Benimamet/R0_VIP_h_8/R0_h_line1.html)
   * [LINEA 2](https://juliauru.github.io/D.Benimamet/R0_VIP_h_8/R0_h_line2.html)
