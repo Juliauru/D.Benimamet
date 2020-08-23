@@ -22,7 +22,6 @@
   * [LINEA 239](https://juliauru.github.io/D.Benimamet/Iangle_9/Ia_line239.html)
   * [LINEA 266](https://juliauru.github.io/D.Benimamet/Iangle_9/Ia_line266.html)
 4. **Variación en tensión, intensidad y potencia respecto a la potencia aportada por la red de media tensión**: [VIP_P_aportada](https://juliauru.github.io/D.Benimamet/VIP_anual_CG_4.html)
-
 * Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
   * [LINEA 1](https://juliauru.github.io/D.Benimamet/R_Autoconsumo_4/CG_line1.html)
   * [LINEA 2](https://juliauru.github.io/D.Benimamet/R_Autoconsumo_4/CG_line2.html)
